@@ -28,7 +28,7 @@ football_ml_project/
 ├── football_value_prediction.ipynb   # Notebook principal (code complet)
 ├── rapport.md                        # Rapport Phase 1 + Phase 2
 ├── README.md                         # Ce fichier
-└── players_24.csv                    # Dataset (à télécharger sur Kaggle)
+└── man_players_24.csv                    # Dataset (à télécharger sur Kaggle)
 ```
 
 ## Lancer le projet
