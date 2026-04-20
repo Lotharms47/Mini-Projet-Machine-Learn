@@ -12,7 +12,7 @@ Développer un modèle ML pour prédire la **valeur marchande d'un joueur de foo
 ~18 000 joueurs | 70+ features | Variable cible : `value_eur`
 
 Télécharger ici : https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset  
-Placer le fichier `players_24.csv` à la racine du projet.
+Placer le fichier `man_players_24.csv` à la racine du projet.
 
 ## Modèles comparés
 
